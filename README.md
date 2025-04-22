@@ -2,6 +2,12 @@
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Part of 30-Day SOC Challenge](https://img.shields.io/badge/Challenge-30--Day--SOC-blue)
+![Last Commit](https://img.shields.io/github/last-commit/BecomingCyber/Day17-Splunk-UniversalForwarder)
+![Repo Size](https://img.shields.io/github/repo-size/BecomingCyber/Day17-Splunk-UniversalForwarder)
+![Stars](https://img.shields.io/github/stars/BecomingCyber/Day17-Splunk-UniversalForwarder?style=social)
+![Forks](https://img.shields.io/github/forks/BecomingCyber/Day17-Splunk-UniversalForwarder?style=social)
+
+
 
 ## 🎯 Objective
 
